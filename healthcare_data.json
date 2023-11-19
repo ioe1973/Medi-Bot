@@ -1,0 +1,180 @@
+{
+    "disease_info": {
+        "Common Cold": {
+            "generic_medicine": ["Paracetamol", "Ibuprofen"],
+            "home_remedy": ["Drink warm fluids", "Rest"],
+            "description": "Common cold is a viral infection of the upper respiratory tract."
+        },
+        "Malaria": {
+            "generic_medicine": ["Chloroquine", "Artemisinin"],
+            "home_remedy": ["Use mosquito nets", "Wear long sleeves and pants"],
+            "description": "Malaria is a mosquito-borne infectious disease."
+        },
+        "Acid Reflux": {
+            "generic_medicine": ["Omeprazole", "Ranitidine"],
+            "home_remedy": ["Avoid spicy food", "Elevate head while sleeping"],
+            "description": "Acid reflux is a digestive disorder."
+        },
+        "Diabetes": {
+            "generic_medicine": ["Metformin", "Insulin"],
+            "home_remedy": ["Maintain a healthy diet", "Regular exercise"],
+            "description": "Diabetes is a chronic metabolic disorder."
+        },
+        "Dengue Fever": {
+            "generic_medicine": ["Paracetamol", "Intravenous fluids"],
+            "home_remedy": ["Stay hydrated", "Rest"],
+            "description": "Dengue fever is a mosquito-borne tropical disease."
+        },
+        "Asthma": {
+            "generic_medicine": ["Albuterol", "Corticosteroids"],
+            "home_remedy": ["Use a humidifier", "Avoid triggers like smoke"],
+            "description": "Asthma is a chronic respiratory condition."
+        },
+        "Hypertension": {
+            "generic_medicine": ["Losartan", "Amlodipine"],
+            "home_remedy": ["Reduce salt intake", "Regularly monitor blood pressure"],
+            "description": "Hypertension is high blood pressure."
+        },
+        "Cholera": {
+            "generic_medicine": ["Oral rehydration solution"],
+            "home_remedy": ["Oral rehydration therapy", "Avoid contaminated water"],
+            "description": "Cholera is a bacterial infection causing severe diarrhea."
+        },
+        "Typhoid Fever": {
+            "generic_medicine": ["Ciprofloxacin", "Azithromycin"],
+            "home_remedy": ["Boil drinking water", "Maintain hygiene"],
+            "description": "Typhoid fever is a bacterial infection."
+        },
+        "Pneumonia": {
+            "generic_medicine": ["Amoxicillin", "Azithromycin"],
+            "home_remedy": ["Get plenty of rest", "Stay hydrated"],
+            "description": "Pneumonia is a lung infection."
+        },
+        "Tuberculosis": {
+            "generic_medicine": ["Isoniazid", "Rifampin"],
+            "home_remedy": ["Take medications as prescribed", "Good nutrition"],
+            "description": "Tuberculosis is a bacterial infection."
+        },
+        "Hepatitis B": {
+            "generic_medicine": ["Entecavir", "Tenofovir"],
+            "home_remedy": ["Vaccination", "Avoid sharing needles"],
+            "description": "Hepatitis B is a viral liver infection."
+        },
+        "Chickenpox": {
+            "generic_medicine": ["Acetaminophen", "Antihistamines"],
+            "home_remedy": ["Cool baths", "Keep nails short to prevent scratching"],
+            "description": "Chickenpox is a viral infection."
+        },
+        "Osteoarthritis": {
+            "generic_medicine": ["Ibuprofen", "Acetaminophen"],
+            "home_remedy": ["Exercise regularly", "Apply hot/cold therapy"],
+            "description": "Osteoarthritis is a degenerative joint disease."
+        },
+        "Rheumatoid Arthritis": {
+            "generic_medicine": ["Methotrexate", "Prednisone"],
+            "home_remedy": ["Low-impact exercise", "Heat therapy"],
+            "description": "Rheumatoid arthritis is an autoimmune joint disorder."
+        },
+        "Urinary Tract Infection": {
+            "generic_medicine": ["Ciprofloxacin", "Nitrofurantoin"],
+            "home_remedy": ["Drink cranberry juice", "Stay hydrated"],
+            "description": "Urinary tract infection is a bacterial infection."
+        },
+        "Gastroenteritis": {
+            "generic_medicine": ["Loperamide", "Oral rehydration solution"],
+            "home_remedy": ["Avoid solid foods initially", "Rest the stomach"],
+            "description": "Gastroenteritis is an inflammation of the stomach and intestines."
+        },
+        "Migraine": {
+            "generic_medicine": ["Sumatriptan", "Naproxen"],
+            "home_remedy": ["Rest in a dark, quiet room", "Stay hydrated"],
+            "description": "Migraine is a severe headache disorder."
+        },
+        "Anemia": {
+            "generic_medicine": ["Iron supplements", "Vitamin B12 supplements"],
+            "home_remedy": ["Consume iron-rich foods", "Vitamin C helps iron absorption"],
+            "description": "Anemia is a deficiency of red blood cells or hemoglobin."
+        },
+        "Chronic Kidney Disease": {
+            "generic_medicine": ["ACE inhibitors", "Diuretics"],
+            "home_remedy": ["Maintain a kidney-friendly diet", "Regular check-ups"],
+            "description": "Chronic kidney disease is a long-term kidney condition."
+        },
+        "Eczema": {
+            "generic_medicine": ["Topical corticosteroids", "Antihistamines"],
+            "home_remedy": ["Use moisturizers", "Avoid triggers like harsh soaps"],
+            "description": "Eczema is a skin condition characterized by itching and inflammation."
+        },
+        "Hemorrhoids": {
+            "generic_medicine": ["Hydrocortisone creams", "Witch hazel pads"],
+            "home_remedy": ["Fiber-rich diet", "Warm baths"],
+            "description": "Hemorrhoids are swollen blood vessels in the rectum or anus."
+        },
+        "Gout": {
+            "generic_medicine": ["Allopurinol", "Colchicine"],
+            "home_remedy": ["Limit purine-rich foods", "Stay hydrated"],
+            "description": "Gout is a type of arthritis caused by uric acid buildup."
+        },
+        "Atrial Fibrillation": {
+            "generic_medicine": ["Warfarin", "Dabigatran"],
+            "home_remedy": ["Limit caffeine and alcohol", "Regular exercise"],
+            "description": "Atrial fibrillation is an irregular heartbeat condition."
+        },
+        "Depression": {
+            "generic_medicine": ["Sertraline", "Escitalopram"],
+            "home_remedy": ["Talk therapy", "Exercise and healthy lifestyle"],
+            "description": "Depression is a mental health disorder."
+        },
+        "Osteoporosis": {
+            "generic_medicine": ["Alendronate", "Calcium supplements"],
+            "home_remedy": ["Weight-bearing exercises", "Adequate vitamin D intake"],
+            "description": "Osteoporosis is a bone density disorder."
+        },
+        "Pregnancy": {
+            "generic_medicine": [],
+            "home_remedy": ["Prenatal vitamins", "Healthy diet and regular check-ups"],
+            "description": "Pregnancy is a natural physiological process."
+        },
+        "Epilepsy": {
+            "generic_medicine": ["Phenytoin", "Valproic acid"],
+            "home_remedy": ["Stick to medication schedule", "Seizure action plan"],
+            "description": "Epilepsy is a neurological disorder."
+        },
+        "Alzheimer's Disease": {
+            "generic_medicine": ["Donepezil", "Memantine"],
+            "home_remedy": ["Mental stimulation activities", "Supportive environment"],
+            "description": "Alzheimer's disease is a progressive brain disorder."
+        },
+        "Parkinson's Disease": {
+            "generic_medicine": ["Levodopa", "Carbidopa"],
+            "home_remedy": ["Regular exercise", "Physical and occupational therapy"],
+            "description": "Parkinson's disease is a neurodegenerative disorder."
+        }
+    },
+    "symptom_to_disease": {
+        "fever": ["Common Cold", "Malaria", "Dengue Fever"],
+        "cough": ["Common Cold", "Acid Reflux", "Pneumonia"],
+        "headache": ["Common Cold", "Migraine"],
+        "nausea": ["Malaria", "Cholera"],
+        "fatigue": ["Common Cold", "Diabetes", "Anemia"],
+        "shortness of breath": ["Asthma", "Pneumonia"],
+        "high blood pressure": ["Hypertension"],
+        "diarrhea": ["Cholera", "Gastroenteritis"],
+        "abdominal pain": ["Cholera", "Appendicitis"],
+        "joint pain": ["Osteoarthritis", "Rheumatoid Arthritis", "Gout"],
+        "urinary urgency": ["Urinary Tract Infection"],
+        "vomiting": ["Gastroenteritis", "Cholera"],
+        "muscle weakness": ["Hypertension", "Chronic Kidney Disease"],
+        "skin rash": ["Eczema"],
+        "rectal bleeding": ["Hemorrhoids"],
+        "swollen joints": ["Rheumatoid Arthritis", "Gout"],
+        "irregular heartbeat": ["Atrial Fibrillation"],
+        "sadness": ["Depression"],
+        "fractures": ["Osteoporosis"],
+        "pregnancy": ["Pregnancy"],
+        "seizures": ["Epilepsy"],
+        "memory loss": ["Alzheimer's Disease"],
+        "tremors": ["Parkinson's Disease"]
+        
+    }
+}
